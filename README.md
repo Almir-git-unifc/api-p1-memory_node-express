@@ -83,8 +83,9 @@ To clone and run this application, you'll need Git, Node.js v20.03 or higher + n
 
 ### $ `npm install`
 
-## run the server
 ### $ `npm start`
+
+
 
 ## run Run the project on a local server by typing 
 ### $ `http://localhost:3000/`
