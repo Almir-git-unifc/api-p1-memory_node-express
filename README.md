@@ -19,11 +19,11 @@ STATUS:
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
-- [Intro](#Intro -)
-- [Feature](#Feature -)
-- [Technologies](#Technologies -)
-- [How To Use](#How-To-Use -)
-- [Author](#Author -)
+- [Intro](#Intro)
+- [Feature](#Feature)
+- [Technologies](#Technologies)
+- [How To Use](#How-To-Use)
+- [Author](#Author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
