@@ -86,10 +86,11 @@ To clone and run this application, you'll need Git, Node.js v20.03 or higher + n
 ### $ `npm start`
 
 
-
+&nbsp;
 ## run Run the project on a local server by typing 
 ### $ `http://localhost:3000/`
 
+&nbsp;
 ### Install the VSCode Thunder Client extension to made tests
 
 
