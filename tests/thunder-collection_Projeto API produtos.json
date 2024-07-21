@@ -1,0 +1,81 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Projeto API produtos",
+    "collectionId": "6d7d4de6-fbfa-49b3-b287-cf43aedec615",
+    "dateExported": "2024-07-20T20:46:27.340Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "268e514e-5003-4c29-8181-b500d3dd4253",
+            "colId": "6d7d4de6-fbfa-49b3-b287-cf43aedec615",
+            "containerId": "",
+            "name": "GET /api/v1/produtos",
+            "url": "http://localhost:3000/api/v1/produtos/",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-07-20T19:18:24.628Z",
+            "modified": "2024-07-20T19:18:24.628Z",
+            "headers": []
+        },
+        {
+            "_id": "ca2862f3-2bc4-4bfc-8b2b-9db0b1a4f65a",
+            "colId": "6d7d4de6-fbfa-49b3-b287-cf43aedec615",
+            "containerId": "",
+            "name": "POST /api/v1/produtos",
+            "url": "http://localhost:3000/api/v1/produtos",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2024-07-20T19:18:44.691Z",
+            "modified": "2024-07-20T19:18:44.691Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\"descricao\": \"Tênis\", \"marca\": \"Adidas\", \"preco\": 299.99}",
+                "form": []
+            }
+        },
+        {
+            "_id": "b3e6fb9d-cd11-4b16-8d0a-753c0b42f08f",
+            "colId": "6d7d4de6-fbfa-49b3-b287-cf43aedec615",
+            "containerId": "",
+            "name": "DELETE /api/v1/produtos/1",
+            "url": "http://localhost:3000/api/v1/produtos/1",
+            "method": "DELETE",
+            "sortNum": 40000,
+            "created": "2024-07-20T19:19:07.963Z",
+            "modified": "2024-07-20T19:19:07.963Z",
+            "headers": []
+        },
+        {
+            "_id": "ed1fcfa9-9844-4cd2-9df0-127409888cba",
+            "colId": "6d7d4de6-fbfa-49b3-b287-cf43aedec615",
+            "containerId": "",
+            "name": "PUT /api/v1/produtos/11",
+            "url": "http://localhost:3000/api/v1/produtos/11",
+            "method": "PUT",
+            "sortNum": 50000,
+            "created": "2024-07-20T19:39:21.233Z",
+            "modified": "2024-07-20T19:49:05.041Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{ \"descricao\": \"Boné\", \"marca\": \"Mizuno\", \"preco\": 79.99 }",
+                "form": []
+            }
+        },
+        {
+            "_id": "b9eb73b5-54f2-4336-9053-f6ce291207be",
+            "colId": "6d7d4de6-fbfa-49b3-b287-cf43aedec615",
+            "containerId": "",
+            "name": "GET /api/v1/produtos/11",
+            "url": "http://localhost:3000/api/v1/produtos/11",
+            "method": "GET",
+            "sortNum": 60000,
+            "created": "2024-07-20T19:41:20.861Z",
+            "modified": "2024-07-20T19:44:55.824Z",
+            "headers": []
+        }
+    ],
+    "ref": "KwjUIDlOsAXkVVgsP1hsesKIZWHLqQrCeWij7y2rNEGl1vknbfPa23-aIYY_F8OLzYuAw2_aapgCItvejCQ9lA"
+}
