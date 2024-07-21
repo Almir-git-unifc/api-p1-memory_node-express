@@ -89,13 +89,16 @@ To clone and run this application, you'll need Git, Node.js v20.03 or higher + n
 ## run Run the project on a local server by typing 
 ### $ `http://localhost:3000/`
 
-### In browser you will see only message 'Express - Welcome to Express'
-
-
 ### Install the VSCode Thunder Client extension to made tests
+
+
+```
+### In browser you will see only message 'Express - Welcome to Express'
 ### The tests are shown in the attached png figure above in this readme file 
+```
 
 
+&nbsp;
 <h5>
  Enjoyed and if this is useful to you, give me a star 🌟
 </h5>
