@@ -12,3 +12,6 @@ v00.00.001 - first commit with Teste 0, send readme"
 
 
 V01.00.001 - Sent all file structure
+
+
+V01.00.002 - Fix address image scrtest

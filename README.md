@@ -11,7 +11,7 @@ STATUS:
 
                             ==========================================
 
-![Screentest](https://github.com/Almir-git-unifc/api-memory_product_node-express/blob/master/scrtest.png)
+![Screentest](https://github.com/Almir-git-unifc/api-memory_product_node-express/blob/main/scrtest.png)
 
 
 --------------------------------------------------------------------------------------
