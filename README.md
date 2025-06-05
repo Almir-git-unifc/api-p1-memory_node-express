@@ -1,6 +1,6 @@
 <h1>API_Restfull-memory</h1>
 
-A simple API RestFull, for Node & Express, with product's data in memory
+A simple API RestFull, for Node & Express, with product's data in memory & Testing with Thunder Cli
 
 ---------------------------------------------------------------------------------------------------------
 
